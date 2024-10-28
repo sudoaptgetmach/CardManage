@@ -1,8 +1,8 @@
 package org.mach.events;
 
 import org.mach.collections.ListManager;
-import org.mach.superclass.Cartao;
-import org.mach.superclass.Compra;
+import org.mach.classes.Cartao;
+import org.mach.classes.Compra;
 
 public class EventManager {
 

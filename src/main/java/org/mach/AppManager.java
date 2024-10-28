@@ -2,8 +2,8 @@ package org.mach;
 
 import org.mach.collections.ListManager;
 import org.mach.events.EventManager;
-import org.mach.superclass.Cartao;
-import org.mach.superclass.Compra;
+import org.mach.classes.Cartao;
+import org.mach.classes.Compra;
 
 import java.util.Scanner;
 

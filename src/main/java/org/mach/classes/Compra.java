@@ -1,4 +1,4 @@
-package org.mach.superclass;
+package org.mach.classes;
 
 public class Compra implements Comparable<Compra> {
 
